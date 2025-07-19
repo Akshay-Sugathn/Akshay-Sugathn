@@ -13,7 +13,7 @@ I'm Akshay-Sugathn
 - 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/Akshay-Sugathn/Akshay-Sugathn/issues)**
 
 
-div align="center">
+<div align="center">
   <a href="akshaysugathan9625@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
