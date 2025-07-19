@@ -1,4 +1,4 @@
 
-  <img src="https://github.com/{USERNAME}/{USERNAME}/blob/main/software-developer.png">
+  <img src="https://github.com/Akshay-Sugathn/Akshay-Sugathn/blob/main/maths1.jpg">
 
 
