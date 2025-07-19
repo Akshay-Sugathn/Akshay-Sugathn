@@ -11,3 +11,15 @@ I'm Akshay-Sugathn
 
 🌱 I’m currently learning **ML&AI**
 - 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/Akshay-Sugathn/Akshay-Sugathn/issues)**
+
+
+div align="center">
+  <a href="akshaysugathan9625@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/akshay-sugathan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
