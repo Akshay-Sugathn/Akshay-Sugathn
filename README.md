@@ -23,3 +23,11 @@ I'm Akshay-Sugathn
 </div>
 
 <hr>
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=Pyhton,R,SQL,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,git,postman" />
+</p>
+
+<hr>
