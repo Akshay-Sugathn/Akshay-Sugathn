@@ -7,7 +7,7 @@ I'm Akshay-Sugathn
 
 
 🌱 I’m currently learning **ML&AI**
-- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/Akshay-Sugathn/Akshay-Sugathn/issues)**
+- 💬 Ask me about **Python, R, JS, PHP or anything [here](https://github.com/Akshay-Sugathn/Akshay-Sugathn/issues)**
 
 
 <div align="center">
