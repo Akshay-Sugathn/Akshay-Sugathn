@@ -3,7 +3,7 @@
 I'm Akshay-Sugathn
 </h1>
 
-### A Data Scientist & full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+### A Data Scientist & full-stack software engineer passionate about building functional, and Data-centric applications.
 
 
 🌱 I’m currently learning **ML&AI**
